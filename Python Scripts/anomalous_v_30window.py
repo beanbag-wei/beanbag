@@ -4,11 +4,11 @@ import os
 import math
 import matplotlib.pyplot as plt
 
-def standardization(data):
-    mu = np.mean(data, axis=0)
-    sigma = np.std(data, axis=0)
-    print(mu, sigma)
-    return (data - mu) / sigma
+#def standardization(data):
+#    mu = np.mean(data, axis=0)
+#    sigma = np.std(data, axis=0)
+#    print(mu, sigma)
+#    return (data - mu) / sigma
 
 # yy = smooth(y) smooths the data in the column vector y ..
 # The first few elements of yy are given by
@@ -104,8 +104,7 @@ for i in range(0, nyear-1):
     v_cal = np.append(v_cal, v_area[i * 365 + 304 : (i + 1) * 365 + 89 + 1])
 print(v_cal.shape)
 num_day = len(v_cal)
-
-std_v = standardization(v_cal)    
+  
 critical_std1 = -0.
 ### start to find the window that anomalous v beyond 30 days 
 lasting = []
