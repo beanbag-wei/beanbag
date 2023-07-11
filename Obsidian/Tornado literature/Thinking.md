@@ -7,5 +7,9 @@
     
     3. Which process (dynamic lifting or buoyancy) play in the intensification of tornado? 
     If [[buoyancy]], how does effective buoyancy change? If [[dynamic lifting]], does dynamic VPPGF increase?
-    - dynamic lifting: the concerned parameters, such as SRH? 
-    
+    - The potential temperature does not increase prominently as time goes by.
+    - The pressure compoent of effective buoyancy is large, but this part acts to compensate the dynamic part. (True or false?)
+    - dynamic lifting: how to explain the increase of splatting term. May because of increase of wind shear. #doing calculate each convergence term and shear term according to formula.
+    - 
+    4. Why does the distribution of dynamic VPPGF like a dipole?
+    - 
