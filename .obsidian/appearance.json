@@ -1,0 +1,9 @@
+{
+  "accentColor": "#00aa90",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "eye-protection-color"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 12
+}

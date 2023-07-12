@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "a77ff0043a099afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef3cc1c29d9a5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e5ab7b25a54f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tornado literature/Tornado literature Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "313ddcd281521cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tornado literature/Thinking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3989d63fc911543b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bread list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8a7918116c54116",
+    "type": "split",
+    "children": [
+      {
+        "id": "58aded993f6f08db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85c8de033b883af2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c9c61196cf98bff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#doing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adc4c613fc9cab07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fa9ade2fdf1079f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6782880eaa8a59e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9c4ccafad24d8eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bread list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9c5a49254871ddfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bread list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5711f19001ffb08c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bb49fc81002c4f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bread list.md"
+              }
+            }
+          },
+          {
+            "id": "299d949ed84cdf45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3989d63fc911543b",
+  "lastOpenFiles": [
+    "拍摄脚本2023.6.22.md",
+    "Tornado literature/Thinking.md",
+    "Tornado literature/Tornado literature Review.md",
+    "To do list.md",
+    "Bread list.md",
+    "Untitled.canvas",
+    "Tornado literature/Statistical data.md",
+    "Tornado literature/Fig2 vertical vor w waccel.png",
+    "ARPS/Data.md",
+    "ARPS",
+    "obsidian_library",
+    "packed-refs",
+    "ORIG_HEAD",
+    "index",
+    "HEAD",
+    "FETCH_HEAD",
+    "description",
+    "config",
+    "COMMIT_EDITMSG",
+    "README.md",
+    "Midlevel mesocyclones, generally at 1–5 km above ground level (AGL).md",
+    "2023-07-10.md",
+    "dynamic lifting.md"
+  ]
+}
