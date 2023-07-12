@@ -5,7 +5,7 @@
 	- Buoyancy and dynamic lifting are both important
 	1. [Thompson et al. 2003](https://journals.ametsoc.org/view/journals/apme/54/2/jamc-d-14-0171.1.xml#bib60). lower (higher) LCL height and larger (smaller) 0–1-km SRH
 		*explanation: Lower LCL heights are associated with less evaporation of rain in an RFD and more positively buoyant RFD outflow air. +Higher 0–1-km SRH is likely related to larger upward-directed VPPGFs and more stretching of existing vertical vorticity.*
-	2. [[[Yokota et al. (2018)]](https://journals.ametsoc.org/doi/10.1175/MWR-D-17-0254.1). 
+	2. [Yokota et al. (2018)](https://journals.ametsoc.org/doi/10.1175/MWR-D-17-0254.1). 
 		*The results showed that two near-tornado mesoscale factors were important for tornadogenesis: strong low-level mesocyclones (LMCs) at about 1 km above ground level and humid air near the surface. Strong LMCs and large water vapor near the surface strengthened the nonlinear dynamic vertical perturbation pressure gradient force and buoyancy, respectively*.
 
 	- Only dynamic lifting is important
