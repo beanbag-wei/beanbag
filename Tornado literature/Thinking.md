@@ -13,6 +13,7 @@
     - The potential temperature does not increase prominently as time goes by.
     - dynamic lifting: how to explain the increase of splatting term. May because of increase of wind shear.
 		 - [/] calculate each convergence term and shear term according to formula.
+		 - [ ] draw different components of splatting term, including normal-x, normal-y, normal-z, shear-x, shear-y, and shear-z terms. 
     -  There exist a transition at about 5590, before 5590, spinning term is positive, splatting term is negative, while from 5590, spinning term is negative and spaltting term is positive. 
 		 - [/] vorticity may change at this time, need to substantiate. 
 		 *the picture pgfspn is overlaied with maximum vorticity in each level and labelled their value to explain the distribution of pgfspn and the transition at 5590*

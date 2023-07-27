@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bef3cc1c29d9a5ca",
+        "id": "59fcd9321918cc8a",
         "type": "tabs",
         "children": [
           {
-            "id": "12e5ab7b25a54f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tornado literature/Tornado literature Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "313ddcd281521cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tornado literature/Thinking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3989d63fc911543b",
+            "id": "9adea0d7cc023cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3989d63fc911543b",
+  "active": "9adea0d7cc023cba",
   "lastOpenFiles": [
-    "拍摄脚本2023.6.22.md",
-    "Tornado literature/Thinking.md",
-    "Tornado literature/Tornado literature Review.md",
-    "To do list.md",
-    "Bread list.md",
-    "Untitled.canvas",
-    "Tornado literature/Statistical data.md",
-    "Tornado literature/Fig2 vertical vor w waccel.png",
     "ARPS/Data.md",
+    "Bread list.md",
+    "Program.md",
+    "To do list.md",
+    "1690291206078.png",
+    "Tornado literature/Good phrases and sentences.md",
+    "Tornado literature/Tornado literature Review.md",
+    "拍摄脚本2023.6.22.md",
+    "Knowledge/Roughness length.md",
+    "Tornado literature/Thinking.md",
+    "Pasted image 20230713215650.png",
+    "Knowledge",
+    "WRF.md",
+    "ARPS/The change of ARPS modules.md",
+    "Tornado literature/Statistical data.md",
+    "Untitled.canvas",
+    "Tornado literature/Fig2 vertical vor w waccel.png",
     "ARPS",
     "obsidian_library",
     "packed-refs",
@@ -200,7 +183,6 @@
     "FETCH_HEAD",
     "description",
     "config",
-    "COMMIT_EDITMSG",
     "README.md",
     "Midlevel mesocyclones, generally at 1–5 km above ground level (AGL).md",
     "2023-07-10.md",
